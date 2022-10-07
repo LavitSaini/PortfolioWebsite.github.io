@@ -84,7 +84,7 @@ header {
   width: 100%;
   height: 440px;
   text-align: center;
-  background-image: url("/Images/bg.webp");
+  background-image: url("bg.webp");
   background-repeat: no-repeat;
   background-size: cover;
   justify-content: center;
@@ -180,15 +180,15 @@ header {
 }
 
 #fir {
-  background-image: url("/Images/Introduction.jpg");
+  background-image: url("Introduction.jpg");
 }
 
 #sec {
-  background-image: url("/Images/Education.webp");
+  background-image: url("Education.webp");
 }
 
 #thi {
-  background-image: url("/Images/Experience.jpg");
+  background-image: url("Experience.jpg");
 }
 
 .box p {
@@ -262,7 +262,7 @@ header {
 
 /* Contact Section */
 #contact {
-  background-image: url("/Images/Contact\ Me.jpg");
+  background-image: url("Contact\ Me.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
