@@ -245,6 +245,12 @@ header {
   border: none;
 }
 
+.itself a{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
 /* Contact Section Heading*/
 
 #headed {
@@ -541,12 +547,6 @@ header {
 
   .Itself img:hover {
     width: 88%;
-  }
-
-  .Itself {
-    display: flex;
-    justify-content: center;
-    align-items: center;
   }
 
   /* Contact Section Heading */
