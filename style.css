@@ -545,6 +545,10 @@ header {
     margin-top: 6px;
   }
 
+  #ban{
+    margin-bottom: -18px;
+  }
+
   .Itself img:hover {
     width: 88%;
   }
